@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">o Lodjinha</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_categoria">CategoriaActivity</string>
+    <string name="title_activity_detalhes_prod">DetalhesProdActivity</string>
+    <string name="nome_desenvolvedor">Leonardo Toniolo</string>
+    <string name="data_entrega_desenvolvimento">1 de junho de 2019</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">Sobre o Aplicativo</string>
+    <string name="preco_de">De: </string>
+    <string name="preco_por">Por: </string>
+    <string name="mais_vendidos">Mais Vendidos</string>
+    <string name="categorias">Categorias</string>
+    <string name="sem_produtos">Não há produtos nessa categoria</string>
+    <string name="produto_reservado">Produto reservado com sucesso</string>
+    <string name="produto_reservado_erro">Erro ao reservar o produto</string>
+</resources>

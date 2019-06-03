@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="menu_text_size">24sp</dimen>
+    <dimen name="margin_fab">10dp</dimen>
+    <dimen name="margin_default">24dp</dimen>
+    <dimen name="logo_text_size">64sp</dimen>
+    <dimen name="nome_desenvolvedor_text_size">13sp</dimen>
+    <dimen name="data_desenvolvimento_text_size">12sp</dimen>
+    <dimen name="descricao_produto_text_size">18sp</dimen>
+    <dimen name="descricao_produto_detail_text_size">17sp</dimen>
+    <dimen name="nome_categoria_text_size">13sp</dimen>
+    <dimen name="de_text_size">12sp</dimen>
+    <dimen name="para_text_size">20sp</dimen>
+    <dimen name="item_menu_text_size">14sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

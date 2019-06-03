@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextViewBase" parent="TextAppearance.AppCompat.Large" />
+
+    <style name="TextViewMenuLogo" parent="TextViewBase">
+        <item name="android:textSize">@dimen/menu_text_size</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextViewAboutLogo" parent="TextViewBase">
+        <item name="android:textSize">@dimen/logo_text_size</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="TextViewDeveloperName" parent="TextViewBase">
+        <item name="android:textSize">@dimen/nome_desenvolvedor_text_size</item>
+    </style>
+
+    <style name="TextViewDateDevelopment" parent="TextViewBase">
+        <item name="android:textSize">@dimen/data_desenvolvimento_text_size</item>
+    </style>
+
+    <style name="TextViewProductDescription" parent="TextViewBase">
+        <item name="android:textSize">@dimen/descricao_produto_text_size</item>
+    </style>
+
+    <style name="TextViewCategoryName" parent="TextViewBase">
+        <item name="android:textSize">@dimen/nome_categoria_text_size</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TextViewPriceFrom" parent="TextViewBase">
+        <item name="android:textSize">@dimen/de_text_size</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextViewPriceTo" parent="TextViewBase">
+        <item name="android:textSize">@dimen/para_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/tomato</item>
+    </style>
+
+    <style name="TextViewProductDescriptionDetail" parent="TextViewBase">
+        <item name="android:textSize">@dimen/descricao_produto_detail_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
